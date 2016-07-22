@@ -19,7 +19,7 @@ var myStepDefinitionsWrapper = function () {
         log_in.OpenEleotWebsite();
         callback();
     });
-    
+
 
     this.Given(/^I enter my user name$/, function (callback) {
         log_in.EnterUserEmailAddress();
