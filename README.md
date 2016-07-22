@@ -34,3 +34,9 @@ Installation:
 15. Download and copy in project root "BrowserStackLocal" https://www.browserstack.com/local-testing
     My environment is OS X (10.7 and above) (Recommended for your system)
 16. Copy java driver bindings  http://www.seleniumhq.org/download/
+18. install "Sourcetree" (push ,pull, fetch code from repository)  https://www.sourcetreeapp.com/  (follow instructions for the tool. you will asked to create an account)
+19. click "New Repository" --> "Clone URL" 
+19. add  Github repro address https://github.com/VSilva001/Eleot_2_0_AutomationFramework.git  -->path destination + name.
+20. Now, Click on "Pull" to get all you code.
+21. Open "webstorm" (IDE), and look where the repro project is located. You should be able to see all your project and settings, and follow "Run Scripts with **webstorm IDE**" steps.
+  

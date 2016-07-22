@@ -88,7 +88,5 @@ var myStepDefinitionsWrapper = function () {
     //     browser.waitForAngular();
     //     callback();
     // });
-
-
 };
 module.exports = myStepDefinitionsWrapper;
