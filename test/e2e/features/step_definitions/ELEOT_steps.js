@@ -1,9 +1,9 @@
 "use strict";
-var util = require ('util');
+//var util = require ('util');
 
 //to make expect to be define
 var chai = require('chai');
-var expect = chai.expect;
+//var expect = chai.expect;
 
 //to make equal be define
 var chaiAsPromised = require('chai-as-promised');
@@ -64,6 +64,8 @@ var myStepDefinitionsWrapper = function () {
         institution_selector.VerifyErrorMessage_YouDoNotHaveAccessToThisInstitution();
         callback();
     });
+
+    //prueba de text
 
     // this.Then(/^I click on Down Arrow for Fulton Schools\-District$/, function (callback) {
     //     var DownArrow = element.all(by.css('div.toggle'));
