@@ -14,7 +14,7 @@ exports.config = {
         //'e2e/features/View_DropdownList_One_School_Alma_Public_Schools_District.feature'
     ],
 
-    
+
 
     //BrowserStack
     seleniumAddress: 'http://hub.browserstack.com/wd/hub',
