@@ -20,7 +20,6 @@ var myStepDefinitionsWrapper = function () {
         callback();
     });
 
-
     this.Given(/^I enter my user name$/, function (callback) {
         log_in.EnterUserEmailAddress();
         callback();
@@ -91,5 +90,7 @@ var myStepDefinitionsWrapper = function () {
     //     browser.waitForAngular();
     //     callback();
     // });
+
+    //shelpve
 };
 module.exports = myStepDefinitionsWrapper;
