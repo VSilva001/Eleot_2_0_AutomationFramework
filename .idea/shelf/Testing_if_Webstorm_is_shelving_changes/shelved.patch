@@ -1,0 +1,16 @@
+Index: test/e2e/features/step_definitions/ELEOT_steps.js
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- test/e2e/features/step_definitions/ELEOT_steps.js	(revision c2ffae3195b11cbfebaca26a8c828e4702cafad0)
++++ test/e2e/features/step_definitions/ELEOT_steps.js	(revision )
+@@ -91,5 +91,7 @@
+     //     browser.waitForAngular();
+     //     callback();
+     // });
++
++    //shelpve
+ };
+ module.exports = myStepDefinitionsWrapper;
+\ No newline at end of file

@@ -1,0 +1,8 @@
+Index: test/e2e/features/step_definitions/ELEOT_steps.js
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- test/e2e/features/step_definitions/ELEOT_steps.js	(revision Local version)
++++ test/e2e/features/step_definitions/ELEOT_steps.js	(revision Shelved version)
+@@ -1,0 +1,0 @@
